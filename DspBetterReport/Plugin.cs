@@ -9,9 +9,6 @@ using System.Reflection;
 
 namespace DspBetterReport
 {
-
-
-
     [BepInPlugin(GUID, NAME, VERSION)]
     [BepInProcess(GAME_PROCESS)]
     public class Plugin : BaseUnityPlugin
